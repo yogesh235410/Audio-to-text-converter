@@ -1,0 +1,4 @@
+# requirements.txt
+pyaudio==0.2.11
+PyQt6==6.1.1
+SpeechRecognition==3.8.1
